@@ -13,7 +13,7 @@ class FacebookEmojiCounter extends React.Component
  this.pic=null
  if (this.props.type==="Love")
  this.pic=Love
- else if (this.props.type==="Like")
+ else if (this.props.type==="like")
  this.pic=like7
  else if (this.props.type==="happy")
  this.pic=happy
